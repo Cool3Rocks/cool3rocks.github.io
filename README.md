@@ -1,2 +1,2 @@
-# tinycode.github.com
-TinyCode
+# tinycode.cn
+Tinycode
