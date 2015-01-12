@@ -2,7 +2,7 @@ markdown: redcarpet
 highlighter: null
 permalink: /:title
 
-url:
+url: cool3rocks.github.io
 baseurl:
 
 redcarpet:
