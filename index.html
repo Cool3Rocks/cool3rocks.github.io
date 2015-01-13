@@ -9,10 +9,7 @@ tagline:
 
   <span class="post-date">
     {% assign d = post.date | date: "%d" | plus:'0' %}
-    {{ post.date | date: "%Y" }}年
-    {{ post.date | date: "%m" }}月 
-    {{ post.date | date: "%d" }}日 
-   </span>
+    {{ post.date | date: "%Y" }}年{{ post.date | date: "%m" }}月{{ post.date | date: "%d" }}日 
   </span>
 
   <h2>
