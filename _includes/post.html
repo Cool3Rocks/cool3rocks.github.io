@@ -1,10 +1,16 @@
 <div class="page-header">
-  <h1>{{ page.title }} {% if page.tagline %}<small>{{page.tagline}}</small>{% endif %}</h1>
+  <h1>{{ page.title }} {% if page.tagline %}<small>{{page.tagline}}</small>{% endif %}
+  	 <span class="post-date">
+	   {% assign d = page.date | date: "%d" | plus:'0' %}
+	   {{ page.date | date: "%Y" }}-{{ page.date | date: "%m" }}-{{ page.date | date: "%d" }}
+	 </span>
+  </h1>
 </div>
 	
 <article>
 
 	<div class="col-sm-10">
+	 
 	  <div class="article_body">
 	  {{ content }}
 	  </div>

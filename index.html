@@ -7,13 +7,12 @@ tagline:
 
 <article class="home">
 
-  <span class="post-date">
-    {% assign d = post.date | date: "%d" | plus:'0' %}
-    {{ post.date | date: "%Y" }}年{{ post.date | date: "%m" }}月{{ post.date | date: "%d" }}日 
-  </span>
-
   <h2>
     <a href="{{ site.BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
+    <span class="post-date">
+    {% assign d = post.date | date: "%d" | plus:'0' %}
+    {{ post.date | date: "%Y" }}-{{ post.date | date: "%m" }}-{{ post.date | date: "%d" }}
+    </span>
   </h2>
 
   <div>
