@@ -98,3 +98,9 @@ def getReplyXml(msg, replyContent):
     return extTpl
 {% endhighlight %}
 ![图片](/assets/media/2013-09-26-django-weixin-public-1.png)
+
+-----------------------------
+
+我的微信公众账号是 tinyjoke，或者扫一扫
+
+![图片](/assets/media/2013-09-26-django-weixin-public-2.png)
