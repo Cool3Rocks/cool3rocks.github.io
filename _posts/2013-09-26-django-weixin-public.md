@@ -3,7 +3,7 @@ layout: post
 title: Django 搭建微信公众账号
 categories: [Python]
 tags: [Python, 微信, 公众账号]
-description: Django 搭建微信公众账号
+description:
 ---
 小伙伴们通过订阅微信公众账号，实现动态获取荤素搭配的英文段子的功能。
 
