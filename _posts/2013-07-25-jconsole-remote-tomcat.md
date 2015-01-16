@@ -3,7 +3,7 @@ layout: post
 title: JConsole 远程查看 Tomcat 下的虚拟机
 categories: [Java]
 tags: [java, tomcat, jconsole]
-description: JConsole 远程查看 Tomcat 下的虚拟机
+description: JConsole 远程查看 Tomcat 下的虚拟机。
 ---
 
 ##远程

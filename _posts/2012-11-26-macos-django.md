@@ -3,7 +3,7 @@ layout: post
 title: OS X 10.8.2 Django 环境搭建
 categories: [Python]
 tags: [Mac, Python, Django]
-description: 
+description: 最近工作之余（包括偷懒的时候）对 Python 和 Django 产生了浓厚的兴趣。闲来无事说说环境怎么搭建的吧。
 ---
 最近工作之余（包括偷懒的时候）对 Python 和 Django 产生了浓厚的兴趣。闲来无事说说环境怎么搭建的吧。
 

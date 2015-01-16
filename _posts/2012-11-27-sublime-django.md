@@ -3,7 +3,7 @@ layout: post
 title: Sublime 下的 Django
 categories: [python]
 tags: [sublime, python]
-description: 
+description: Sublime 最近很火啊有木有。 我对 Vim，Emacs 自始至终都没感过冒，但是一用上 Smblime ，我次奥，写起代码来有如神助啊。
 ---
 
 Sublime 最近很火啊有木有。 我对 Vim，Emacs 自始至终都没感过冒，但是一用上 Smblime ，我次奥，写起代码来有如神助啊。
